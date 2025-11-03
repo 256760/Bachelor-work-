@@ -1,0 +1,4 @@
+SQLAlchemy==2.0.44
+mariadb==1.1.14
+influxdb-client==1.49.0
+matplotlib==3.10.7
